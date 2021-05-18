@@ -1,0 +1,60 @@
+Dell
+2000.0
+24
+Nu
+Windows 10
+Intel Core i7- 7820HQ
+16
+1024
+15000
+13.3
+Nu
+Da
+Lenovo
+1000.0
+12
+Nu
+Free Dos
+Intel Core i5-8259U
+8
+500
+15000
+13.3
+Da
+Nu
+Asus
+800.0
+24
+Da
+Free Dos
+AMD Ryzen 7 3780U
+8
+2048
+10000
+15.6
+Da
+Da
+Toshiba
+600.0
+12
+Da
+Free Dos
+Intel Core i5-8265U
+4
+1024
+10000
+13.3
+Da
+Da
+Dell
+3000.0
+36
+Nu
+Windows 10
+Intel Core i9-8950HK
+16
+2048
+20000
+15.6
+Nu
+Da
